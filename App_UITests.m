@@ -1,6 +1,6 @@
 //
-//  YiPaiQuan_UITests.m
-//  YiPaiQuan_UITests
+//  App_UITests.m
+//  App_UITests
 //
 //  Created by XDS on 16/9/5.
 //  Copyright © 2016年 xds. All rights reserved.
@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface YiPaiQuan_UITests : XCTestCase
+@interface App_UITests : XCTestCase
 
 @end
 
-@implementation YiPaiQuan_UITests
+@implementation App_UITests
 
 - (void)setUp {
     [super setUp];
